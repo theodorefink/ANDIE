@@ -6,6 +6,9 @@ Need more information? Check out our [JavaDoc](https://andie-cosc202-team-bee-55
 
 
 ## User Guide
+
+### RUN THIS APP THROUGH GRADLE > TASKS > APPLICATION > RUN
+
 ### Keyboard Shortcuts
 | Keybind    | Action                   |
 | ---------- | ------------------------ |
